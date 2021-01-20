@@ -1,0 +1,10 @@
+# gitignore
+dist
+bin
+node_modules
+*.log
+*/**/*.log
+.vscode
+package-lock.json
+.DS_Store
+app/templates.js
